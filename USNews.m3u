@@ -1,0 +1,130 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE stalker
+#EXT-X-SP-URL http://line.greatstar.me?mac=00:1A:79:60:46:DA
+#EXTINF:-1 tvg-id="1029666" tvg-name="##### NEWS NETWORK #####" group-title="US| NEWS NETWORK",##### NEWS NETWORK #####
+ffmpeg http://localhost/ch/1029666_
+#EXTINF:-1 tvg-id="45438" tvg-name="US| ABC NEWS" tvg-logo="http://logo.protv.cc/picons/logos/ABC-NEWS.png" group-title="US| NEWS NETWORK",US| ABC NEWS
+ffmpeg http://localhost/ch/45438_
+#EXTINF:-1 tvg-id="45614" tvg-name="US| AL JAZEERA ENGLISH" tvg-logo="http://logo.protv.cc/picons/logos/aljazeeraenglish.png" group-title="US| NEWS NETWORK",US| AL JAZEERA ENGLISH
+ffmpeg http://localhost/ch/45614_
+#EXTINF:-1 tvg-id="864834" tvg-name="US| BNC" tvg-logo="http://logo.protv.cc/picons/logos/BNC-TV.png" group-title="US| NEWS NETWORK",US| BNC
+ffmpeg http://localhost/ch/864834_
+#EXTINF:-1 tvg-id="91766" tvg-name="US| BBC WORLD NEWS" tvg-logo="http://logo.protv.cc/picons/logos/USA/BBC-WORLD-NEWS.png" group-title="US| NEWS NETWORK",US| BBC WORLD NEWS
+ffmpeg http://localhost/ch/91766_
+#EXTINF:-1 tvg-id="91952" tvg-name="US| C-SPAN 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/C-SPAN-1.png" group-title="US| NEWS NETWORK",US| C-SPAN 1 HD
+ffmpeg http://localhost/ch/91952_
+#EXTINF:-1 tvg-id="91953" tvg-name="US| C-SPAN 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/C-SPAN-2.png" group-title="US| NEWS NETWORK",US| C-SPAN 2 HD
+ffmpeg http://localhost/ch/91953_
+#EXTINF:-1 tvg-id="1454385" tvg-name="US| C-SPAN 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/C-SPAN-3.png" group-title="US| NEWS NETWORK",US| C-SPAN 3 HD
+ffmpeg http://localhost/ch/1454385_
+#EXTINF:-1 tvg-id="45604" tvg-name="US| CBS HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/CBS.png" group-title="US| NEWS NETWORK",US| CBS HD
+ffmpeg http://localhost/ch/45604_
+#EXTINF:-1 tvg-id="45605" tvg-name="US| CBS PHILADELPHIA" tvg-logo="http://logo.protv.cc/picons/logos/USA/CBS-PHILADELPHIA.png" group-title="US| NEWS NETWORK",US| CBS PHILADELPHIA
+ffmpeg http://localhost/ch/45605_
+#EXTINF:-1 tvg-id="45603" tvg-name="US| CBS NEWS" tvg-logo="http://logo.protv.cc/picons/logos/USA/CBS-NEWS.png" group-title="US| NEWS NETWORK",US| CBS NEWS
+ffmpeg http://localhost/ch/45603_
+#EXTINF:-1 tvg-id="1424752" tvg-name="US| EURONEWS HD" tvg-logo="http://logo.protv.cc/picons/logos/ABC-NEWS.png" group-title="US| NEWS NETWORK",US| EURONEWS HD
+ffmpeg http://localhost/ch/1424752_
+#EXTINF:-1 tvg-id="990397" tvg-name="US| KTLA LOS ANGELES HD" tvg-logo="https://livenewsglobe.com/wp-content/uploads/2020/06/KTLA_5_Los_Angeles_Logo.png" group-title="US| NEWS NETWORK",US| KTLA LOS ANGELES HD
+ffmpeg http://localhost/ch/990397_
+#EXTINF:-1 tvg-id="496646" tvg-name="US| 69 NEWS (WFMZ) PHILADELPHIA" tvg-logo="http://logo.protv.cc/picons/logos/69news.jpg" group-title="US| NEWS NETWORK",US| 69 NEWS (WFMZ) PHILADELPHIA
+ffmpeg http://localhost/ch/496646_
+#EXTINF:-1 tvg-id="91784" tvg-name="US| CHEDDAR BUSINESS HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/CHEDDAR-BUSINESS.png" group-title="US| NEWS NETWORK",US| CHEDDAR BUSINESS HD
+ffmpeg http://localhost/ch/91784_
+#EXTINF:-1 tvg-id="91783" tvg-name="US| CHEDDAR NEWS HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/CHEDDAR-BUSINESS.png" group-title="US| NEWS NETWORK",US| CHEDDAR NEWS HD
+ffmpeg http://localhost/ch/91783_
+#EXTINF:-1 tvg-id="442785" tvg-name="US| CNN FHD" tvg-logo="http://logo.protv.cc/picons/logos/USA/CNN.png" group-title="US| NEWS NETWORK",US| CNN FHD
+ffmpeg http://localhost/ch/442785_
+#EXTINF:-1 tvg-id="45592" tvg-name="US| CNN HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/CNN.png" group-title="US| NEWS NETWORK",US| CNN HD
+ffmpeg http://localhost/ch/45592_
+#EXTINF:-1 tvg-id="1356905" tvg-name="US| CNN MAX" tvg-logo="http://logo.protv.cc/picons/logos/USA/CNN.png" group-title="US| NEWS NETWORK",US| CNN MAX
+ffmpeg http://localhost/ch/1356905_
+#EXTINF:-1 tvg-id="45593" tvg-name="US| CNBC HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/CNBC.png" group-title="US| NEWS NETWORK",US| CNBC HD
+ffmpeg http://localhost/ch/45593_
+#EXTINF:-1 tvg-id="91782" tvg-name="US| CNBC WORLD HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/CNBC-WORLD.png" group-title="US| NEWS NETWORK",US| CNBC WORLD HD
+ffmpeg http://localhost/ch/91782_
+#EXTINF:-1 tvg-id="90948" tvg-name="US| CW ATLANTA HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/CW-ATLANTA.png" group-title="US| NEWS NETWORK",US| CW ATLANTA HD
+ffmpeg http://localhost/ch/90948_
+#EXTINF:-1 tvg-id="45589" tvg-name="US| CW CHICAGO HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/CW-CHICAGO.png" group-title="US| NEWS NETWORK",US| CW CHICAGO HD
+ffmpeg http://localhost/ch/45589_
+#EXTINF:-1 tvg-id="90947" tvg-name="US| CW PHILADELPHIA HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/CW-CHICAGO.png" group-title="US| NEWS NETWORK",US| CW PHILADELPHIA HD
+ffmpeg http://localhost/ch/90947_
+#EXTINF:-1 tvg-id="90953" tvg-name="US| CW PITTSBURGH" tvg-logo="http://logo.protv.cc/picons/logos/USA/CW-CHICAGO.png" group-title="US| NEWS NETWORK",US| CW PITTSBURGH
+ffmpeg http://localhost/ch/90953_
+#EXTINF:-1 tvg-id="90952" tvg-name="US| CW SACRAMENTO HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/CW-CHICAGO.png" group-title="US| NEWS NETWORK",US| CW SACRAMENTO HD
+ffmpeg http://localhost/ch/90952_
+#EXTINF:-1 tvg-id="90949" tvg-name="US| CW SAN FRANCISCO HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/CW-CHICAGO.png" group-title="US| NEWS NETWORK",US| CW SAN FRANCISCO HD
+ffmpeg http://localhost/ch/90949_
+#EXTINF:-1 tvg-id="90950" tvg-name="US| CW SEATTLE HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/CW-CHICAGO.png" group-title="US| NEWS NETWORK",US| CW SEATTLE HD
+ffmpeg http://localhost/ch/90950_
+#EXTINF:-1 tvg-id="90951" tvg-name="US| CW TAMPA BAY HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/CW-CHICAGO.png" group-title="US| NEWS NETWORK",US| CW TAMPA BAY HD
+ffmpeg http://localhost/ch/90951_
+#EXTINF:-1 tvg-id="45576" tvg-name="US| FOX 29" tvg-logo="http://logo.protv.cc/picons/logos/USA/FOX-29.png" group-title="US| NEWS NETWORK",US| FOX 29
+ffmpeg http://localhost/ch/45576_
+#EXTINF:-1 tvg-id="45575" tvg-name="US| FOX BUSINESS NETWORK HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/FOX-BUSINESS-NETWORK.png" group-title="US| NEWS NETWORK",US| FOX BUSINESS NETWORK HD
+ffmpeg http://localhost/ch/45575_
+#EXTINF:-1 tvg-id="143001" tvg-name="US| FOX HARTFORD (WTIC)" tvg-logo="http://logo.protv.cc/picons/logos/FOX-HARTFORD(WTIC).jpg" group-title="US| NEWS NETWORK",US| FOX HARTFORD (WTIC)
+ffmpeg http://localhost/ch/143001_
+#EXTINF:-1 tvg-id="90959" tvg-name="US| FOX HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/FOX.png" group-title="US| NEWS NETWORK",US| FOX HD
+ffmpeg http://localhost/ch/90959_
+#EXTINF:-1 tvg-id="45574" tvg-name="US| FOX KANSAS HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/FOX-KANSAS.png" group-title="US| NEWS NETWORK",US| FOX KANSAS HD
+ffmpeg http://localhost/ch/45574_
+#EXTINF:-1 tvg-id="45573" tvg-name="US| FOX NEWS HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/FOX-NEWS.png" group-title="US| NEWS NETWORK",US| FOX NEWS HD
+ffmpeg http://localhost/ch/45573_
+#EXTINF:-1 tvg-id="91936" tvg-name="US| BLOOMBERG HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/BLOOMBERG.png" group-title="US| NEWS NETWORK",US| BLOOMBERG HD
+ffmpeg http://localhost/ch/91936_
+#EXTINF:-1 tvg-id="1453860" tvg-name="US| BLOOMBERG QUICKTAKE" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BLOOMBERG-QUICKTAKE.png" group-title="US| NEWS NETWORK",US| BLOOMBERG QUICKTAKE
+ffmpeg http://localhost/ch/1453860_
+#EXTINF:-1 tvg-id="730908" tvg-name="US| LIVENOW FROM FOX" tvg-logo="http://logo.protv.cc/picons/logos/USA/LIVENOW-FROM-FOX.png" group-title="US| NEWS NETWORK",US| LIVENOW FROM FOX
+ffmpeg http://localhost/ch/730908_
+#EXTINF:-1 tvg-id="45535" tvg-name="US| MSNBC HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/MSNBC.png" group-title="US| NEWS NETWORK",US| MSNBC HD
+ffmpeg http://localhost/ch/45535_
+#EXTINF:-1 tvg-id="45533" tvg-name="US| NBC LOS ANGELES" tvg-logo="http://logo.protv.cc/picons/logos/USA/NBC-LOS-ANGELES.png" group-title="US| NEWS NETWORK",US| NBC LOS ANGELES
+ffmpeg http://localhost/ch/45533_
+#EXTINF:-1 tvg-id="45531" tvg-name="US| NBC PHILADELPHIA HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/CW-CHICAGO.png" group-title="US| NEWS NETWORK",US| NBC PHILADELPHIA HD
+ffmpeg http://localhost/ch/45531_
+#EXTINF:-1 tvg-id="45530" tvg-name="US| NBC SN HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/NBC-SN.png" group-title="US| NEWS NETWORK",US| NBC SN HD
+ffmpeg http://localhost/ch/45530_
+#EXTINF:-1 tvg-id="869509" tvg-name="US| NEWSY" tvg-logo="http://logo.protv.cc/picons/logos/USA/NEWSY.png" group-title="US| NEWS NETWORK",US| NEWSY
+ffmpeg http://localhost/ch/869509_
+#EXTINF:-1 tvg-id="45529" tvg-name="US| NECN HD" tvg-logo="http://logo.protv.cc/picons/logos/NECN.png" group-title="US| NEWS NETWORK",US| NECN HD
+ffmpeg http://localhost/ch/45529_
+#EXTINF:-1 tvg-id="45527" tvg-name="US| NEWS 12 BROOKLYN" tvg-logo="http://logo.protv.cc/picons/logos/NEWS-12-BROOKLYN.png" group-title="US| NEWS NETWORK",US| NEWS 12 BROOKLYN
+ffmpeg http://localhost/ch/45527_
+#EXTINF:-1 tvg-id="142999" tvg-name="US| NEWS 12 CONNECTICUT" tvg-logo="http://logo.protv.cc/picons/logos/USA/NEWS-12-CONNECTICUT.png" group-title="US| NEWS NETWORK",US| NEWS 12 CONNECTICUT
+ffmpeg http://localhost/ch/142999_
+#EXTINF:-1 tvg-id="613082" tvg-name="US| NEWS 12 NEW JERSEY" tvg-logo="http://logo.protv.cc/picons/logos/USA/NEWS-12-CONNECTICUT.png" group-title="US| NEWS NETWORK",US| NEWS 12 NEW JERSEY
+ffmpeg http://localhost/ch/613082_
+#EXTINF:-1 tvg-id="1002506" tvg-name="US| NEWS 12 LONG ISLAND" tvg-logo="http://logo.protv.cc/picons/logos/NEWS-12-LONG-ISLAND.png" group-title="US| NEWS NETWORK",US| NEWS 12 LONG ISLAND
+ffmpeg http://localhost/ch/1002506_
+#EXTINF:-1 tvg-id="1050760" tvg-name="US| NEWS 12 WESTCHESTER" tvg-logo="http://logo.protv.cc/picons/logos/News-12-Westchester.png" group-title="US| NEWS NETWORK",US| NEWS 12 WESTCHESTER
+ffmpeg http://localhost/ch/1050760_
+#EXTINF:-1 tvg-id="1126508" tvg-name="US| NEWS 12 THE BRONX" tvg-logo="http://logo.protv.cc/picons/logos/USA/NEWS-12-THE-BRONX.png" group-title="US| NEWS NETWORK",US| NEWS 12 THE BRONX
+ffmpeg http://localhost/ch/1126508_
+#EXTINF:-1 tvg-id="150355" tvg-name="US| NEWSMAX HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/NEWSMAX.png" group-title="US| NEWS NETWORK",US| NEWSMAX HD
+ffmpeg http://localhost/ch/150355_
+#EXTINF:-1 tvg-id="91908" tvg-name="US| NEWS Y HD" tvg-logo="http://logo.protv.cc/picons/logos/Y-NEWS-TV.png" group-title="US| NEWS NETWORK",US| NEWS Y HD
+ffmpeg http://localhost/ch/91908_
+#EXTINF:-1 tvg-id="1345437" tvg-name="US| NEWS NATION" tvg-logo="http://logo.protv.cc/picons/logos/USA/NEWS-NATION.png" group-title="US| NEWS NETWORK",US| NEWS NATION
+ffmpeg http://localhost/ch/1345437_
+#EXTINF:-1 tvg-id="91942" tvg-name="US| ONE AMERICAN NEWS NETWORK HD" tvg-logo="http://logo.protv.cc/picons/logos/ONE-AMERICAN-NEWS-NETWORK-HD.jpg" group-title="US| NEWS NETWORK",US| ONE AMERICAN NEWS NETWORK HD
+ffmpeg http://localhost/ch/91942_
+#EXTINF:-1 tvg-id="150358" tvg-name="US| SPECTRUM NEWS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/SPECTRUM-NEWS-1.png" group-title="US| NEWS NETWORK",US| SPECTRUM NEWS 1 HD
+ffmpeg http://localhost/ch/150358_
+#EXTINF:-1 tvg-id="921724" tvg-name="US| SPECTRUM NEWS NY1" tvg-logo="http://logo.protv.cc/picons/logos/USA/SPECTRUM-NEWS-NY1.png" group-title="US| NEWS NETWORK",US| SPECTRUM NEWS NY1
+ffmpeg http://localhost/ch/921724_
+#EXTINF:-1 tvg-id="930696" tvg-name="US| SPECTRUM NOTICIAS NY1" tvg-logo="http://logo.protv.cc/picons/logos/USA/SPECTRUM-NEWS-NY1.png" group-title="US| NEWS NETWORK",US| SPECTRUM NOTICIAS NY1
+ffmpeg http://localhost/ch/930696_
+#EXTINF:-1 tvg-id="1141832" tvg-name="US| SPECTRUM BAY NEWS 9" tvg-logo="http://logo.protv.cc/picons/logos/USA/SPECTRUM-BAY-NEWS-9.png" group-title="US| NEWS NETWORK",US| SPECTRUM BAY NEWS 9
+ffmpeg http://localhost/ch/1141832_
+#EXTINF:-1 tvg-id="1143763" tvg-name="US| SPECTRUM NEWS 13" tvg-logo="http://logo.protv.cc/picons/logos/USA/SPECTRUM-NEWS-13.png" group-title="US| NEWS NETWORK",US| SPECTRUM NEWS 13
+ffmpeg http://localhost/ch/1143763_
+#EXTINF:-1 tvg-id="143000" tvg-name="US| CBS HARTFORD (WFSB)" tvg-logo="http://logo.protv.cc/picons/logos/cbctv.png" group-title="US| NEWS NETWORK",US| CBS HARTFORD (WFSB)
+ffmpeg http://localhost/ch/143000_
+#EXTINF:-1 tvg-id="790500" tvg-name="US| AMERICA TV" tvg-logo="http://logo.protv.cc/picons/logos/USA/AMERICA.png" group-title="US| NEWS NETWORK",US| AMERICA TV
+ffmpeg http://localhost/ch/790500_
+#EXTINF:-1 tvg-id="790501" tvg-name="US| MEGA TV" tvg-logo="http://logo.protv.cc/picons/logos/USA/MEGA.png" group-title="US| NEWS NETWORK",US| MEGA TV
+ffmpeg http://localhost/ch/790501_
+#EXTINF:-1 tvg-id="1446561" tvg-name="US| FREE SPEECH TV" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/FREE-SPEECH.png" group-title="US| NEWS NETWORK",US| FREE SPEECH TV
+ffmpeg http://localhost/ch/1446561_
