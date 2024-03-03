@@ -1,7 +1,4 @@
 #EXTM3U
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE stalker
-#EXT-X-SP-URL http://line.greatstar.me?mac=00:1A:79:60:46:DA
 #EXTINF:-1 tvg-id="1028649" tvg-name="##### CA ENGLISH #####" group-title="CA| ENGLISH",##### CA ENGLISH #####
 ffmpeg http://localhost/ch/1028649_
 #EXTINF:-1 tvg-id="176861" tvg-name="CA| A&E HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/ae.png" group-title="CA| ENGLISH",CA| A&E HD
